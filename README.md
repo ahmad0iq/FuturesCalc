@@ -1,6 +1,6 @@
 ### Hi there 👋
 New to GitHub
-I'll probably get into Python or Web Development soon
+I'll probably get into C++ or Web Development soon
 
 <!--
 **ahmad0iq/ahmad0iq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
